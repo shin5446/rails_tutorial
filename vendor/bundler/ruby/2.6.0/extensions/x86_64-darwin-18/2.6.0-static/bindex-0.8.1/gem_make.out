@@ -1,0 +1,15 @@
+current directory: /Users/tanakashintaro/workspace/hello_app/vendor/bundler/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/tanakashintaro/.rbenv/versions/2.6.1/bin/ruby -I /Users/tanakashintaro/.rbenv/versions/2.6.1/lib/ruby/2.6.0 -r ./siteconf20190712-37709-cuzzb9.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tanakashintaro/workspace/hello_app/vendor/bundler/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/tanakashintaro/workspace/hello_app/vendor/bundler/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/tanakashintaro/workspace/hello_app/vendor/bundler/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190712-37709-1dxwb8v/skiptrace/internal
